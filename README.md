@@ -11,5 +11,3 @@ You have the list of different holidays during this country and this year.
 
 
 ![Holidays](https://media.giphy.com/media/5ocAtoAPhIDcI/giphy.gif "holiday");
-
-![Holidays](https://media.giphy.com/media/JRgjhKV4UvgCpcue0q/giphy.gif "holiday");
