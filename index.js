@@ -1,4 +1,4 @@
-#!/usr/bin/env nodes
+#!/usr/bin/env node
 const axios = require('axios');
 const country = require("country-list");
 const chalk = require('chalk');
